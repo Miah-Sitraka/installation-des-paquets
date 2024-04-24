@@ -36,6 +36,7 @@
  ```
  sudo make install
  ```
+<img src="https://github.com/Miah-Sitraka/installation-des-paquets/blob/main/mysql.png" alt="Capture_ecran_mysql" >
 
 # APACHE
 ```
@@ -64,6 +65,7 @@ sudo make
 ```
 sudo make install
 ```
+<img src="https://github.com/Miah-Sitraka/installation-des-paquets/blob/main/Capture%20d%E2%80%99%C3%A9cran%20du%202024-04-21%2012-05-26.png" alt="Capture_ecran_apache" >
 
 # PHP
 ```
@@ -92,7 +94,7 @@ sudo make
 ```
 sudo make install
 ```
-
+<img src="https://github.com/Miah-Sitraka/installation-des-paquets/blob/main/Capture%20d%E2%80%99%C3%A9cran%20du%202024-04-21%2016-36-17.png" alt="Capture_ecran_php" >
 
  
 
